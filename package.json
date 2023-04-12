@@ -1,6 +1,6 @@
 {
-  "name": "AndroidNativeProj",
-  "version": "0.0.1",
+  "name": "react-native-sampleview",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
@@ -32,5 +32,23 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "description": "sample view render",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brittognanaraj/AndroidNativeUIReactNative.git"
+  },
+  "keywords": [
+    "Android",
+    "Native",
+    "UI",
+    "ReactNative"
+  ],
+  "author": "Britto gnana raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brittognanaraj/AndroidNativeUIReactNative/issues"
+  },
+  "homepage": "https://github.com/Brittognanaraj/AndroidNativeUIReactNative#readme"
 }
